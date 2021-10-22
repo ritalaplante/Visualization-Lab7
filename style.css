@@ -1,0 +1,8 @@
+body {
+    padding: 25px 50px 75px 100px;
+}
+
+input[type="radio"]{
+    margin: 0 5px 0 30px;
+}
+
